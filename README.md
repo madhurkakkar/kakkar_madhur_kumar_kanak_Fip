@@ -7,6 +7,7 @@ We got enheuser busch as my first brand and Care clear cleaning disinfectant sol
 ## Combining of two different brand together formed as Care Clear Cleaning beer which has beer ingredients with disinfectatnt solution pinch of it to make it useful to drink and heal the inner wounds and keeps oneself healthy and active.
 
 ##Looking into the project 
+
 This is a 5 page website made using html, css, js and animation for final integrated project of Interactive Media Design program, Fanshawe College.
 Beer has been designed in cinema 4d, all of it's styling, colour combination and all the contrasting things has been chosen wisely.
 
